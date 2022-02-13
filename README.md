@@ -1,4 +1,30 @@
-# Image
+# Digital Image Processing Filters
+
+### Smoothing Spatial Filters:
+- Median Filter
+- Averaging Filter
+
+### Sharpening Spatial Filters:
+- Laplacian Operator
+- Roberts Operator
+- Sobel Operators
+
+### Noise Filters:
+- Impulse noise 
+- Gaussian noise
+- Uniform noise
+
+### The Transform / Frequency Domain Filters:
+- Histogram Equalization
+
+#
+
+### For more details and results:
+
+documentation : https://bit.ly/3Bk8hG8
+
+colab live : https://colab.research.google.com/drive/1LW2aCbeGpDT-aE356pkl4BURJbC16WUl?usp=sharing
 
 
-https://docs.google.com/document/d/1YiRLhZXdHz-1YaYKVgwzn2wFS61u8s-v/edit?usp=sharing&ouid=105512971937562443627&rtpof=true&sd=true
+
+
